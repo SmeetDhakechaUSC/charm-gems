@@ -32,6 +32,13 @@ import charm_gems as gems
 ### Preparation
 This repository uses submodules. To start it, use
 
+First, clone the repository. 
+
+```bash
+git clone https://github.com/simnibs/charm-gems.git
+cd charm-gems
+```
+
 ```bash
 git submodule init
 git submodule update
